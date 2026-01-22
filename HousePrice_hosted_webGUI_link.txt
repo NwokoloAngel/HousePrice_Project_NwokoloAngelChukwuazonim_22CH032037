@@ -2,5 +2,5 @@ Name: Nwokolo Angel Chukwuazonim
 Matric Number:22CH032037
 Machine Learning Algorithm Used: Linear Regression
 Model Persistence Method: Pickle
-Live URL:https://houseprice-project-ogbonnadanielemeka.onrender.com/ 
+Live URL: https://houseprice-project-mvb8.onrender.com/
 GitHub Repository:https://github.com/NwokoloAngel/HousePrice_Project_NwokoloAngelChukwuazonim_22CH032037
